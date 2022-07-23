@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">A passionate software engineer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertof90&label=Profile%20views&color=0e75b6&style=flat" alt="robertof90" /> </p>
-
 <p align="left"> <a href="https://twitter.com/rfrancodev" target="blank"><img src="https://img.shields.io/twitter/follow/rfrancodev?logo=twitter&style=for-the-badge" alt="rfrancodev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [robertofranco.dev](robertofranco.dev)
